@@ -27,5 +27,5 @@ h1 {
     display: grid;
     border: 1px soild #000;
     grid-gap:10px;
-    grid-template-columns: repeat( 100px 200px);
+    grid-template-columns: repeat(auto-center, 100px 200px);
 }
